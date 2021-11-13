@@ -14,7 +14,7 @@
   <img align="center" alt="Edu-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
 </div>
   
-- 🔭 Atualmente sou estágiario de TI
+- 🔭 Atualmente sou estágiario de  desenvolvimento Web & Mobile
 - 🌱 Estutando Front-End
   
   ##
