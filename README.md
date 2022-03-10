@@ -1,4 +1,4 @@
-### Fala Galera me chamo Eduardo Batista, atualmente a procura do meu primeiro emprego como dev.Front-End
+### Fala Galera me chamo Eduardo Batista, Bem Vindo ao perfil!
 
 <div>
   <a href="https://github.com/EduardoBatista1">
