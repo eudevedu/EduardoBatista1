@@ -16,6 +16,7 @@
   
 - 🔭 Atualmente sou estágiario de  desenvolvimento Web & Mobile
 - 🌱 Estutando Front-End
+- Cursando Engenharia de Software
   
   ##
   
